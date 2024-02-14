@@ -15,6 +15,17 @@
 
 This sample project showcases the Openfort advanced integration with [In-App Purchasing](https://docs.unity3d.com/Packages/com.unity.purchasing@4.10/manual/Overview.html) in Unity. The objective of this integration sample is to implement and showcase a **crypto In-App Purchasing system** compliant with the [rules/guidelines](https://brandonaaskov.notion.site/The-Apple-Pay-Flow-10ea358d903444298513ac42b1f383d8) companies like Apple have set for this type of purchases in mobile apps.
 
+## Application Workflow
+
+<div align="center">
+    <img
+      width="100%"
+      height="100%"
+      src="https://blog-cms.openfort.xyz/uploads/unity_iap_advanced_sample_workflow_d04f0d70f6.png?updated_at=2024-02-14T17:24:18.292Z"
+      alt='Openfort In-App Purchase Advanced Sample workflow'
+    />
+</div>
+
 ## Specifications
 
 The sample includes:
