@@ -1,6 +1,6 @@
 # Openfort In-App Purchase Apple Sample
 
-Disclaimer: Openfort is not responible of such integration to be approved by Apple. 
+*Disclaimer: Openfort is not responible of such integration to be approved by Apple.*
 
 <div align="center">
     <img
