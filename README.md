@@ -1,10 +1,12 @@
-# Openfort In-App Purchase Advanced Sample
+# Openfort In-App Purchase Apple Sample
+
+Disclaimer: Openfort is not responible of such integration to be approved by Apple. 
 
 <div align="center">
     <img
       width="100%"
       height="100%"
-      src="https://blog-cms.openfort.xyz/uploads/unity_advanced_iap_212548bbe7.jpg?updated_at=2024-02-09T10:40:14.394Z"
+      src="https://blog-cms.openfort.xyz/uploads/Apple_IAP_Unity_Sample_4a667ba30f.png"
       alt='Openfort In-App Purchase Advanced Sample'
     />
 </div>
